@@ -1,44 +1,41 @@
 # Data Scientist
 
 #### Technical Skills: 
-##### Programming Languages: Python, SQL, R
-##### Analytics: IPython, Google Looker, Excel, R, R Shiny Apps, Jupyter Notebooks
-##### ML Frameworks: Pandas, NumPy, PyTorch, TensorFlow, Keras, scikit-learn, nltk, 
+Programming Languages: Python, SQL, R, GSQL 
+Analytics: IPython, Google Looker, Excel, R, R Shiny Apps, Jupyter Notebooks
+ML Frameworks: Pandas, NumPy, PyTorch, TensorFlow, Keras, scikit-learn, nltk, 
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Data Analyst ‐ DIGITAL CUSTOMER ANALYTICS & STRATEGY (Dec 2022 - Present_)**
+- Sole senior analyst to 4 PMs to provide deep insights to enhancing customer loyalty and engagement by 10% across 3 apps with 6M+ users and 120M+ sessions with over 30+ features using digital user engagement, in-store data, social, marketing, and finance data
+- Engineered and deployed over 10+ automated reporting systems and executive-facing dashboards, delivering real-time insights on user engagement, acquisition, and spending trends, resulting in a 40% increase in data accessibility and decision-making efficiency.
+- Collaborated seamlessly with diverse cross-functional teams—spanning Data Science, Marketing, Product, Engineering, Design, User Research, and senior leadership—to swiftly execute and refine digital initiatives. 
+- Applied advanced statistical techniques to evaluate the impact of product features and business initiatives, resulting in a 35% improvement in Average Order Value and a 15% increase in conversion rate.
+- Conducted cohort analyses to evaluate customer lifetime value (CLV) and inform customer acquisition and retention strategies.        
+Selected as one of the 25 Analyst across the corporation for the Leaders of Tomorrow program (mentored by Senior Executive Team)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst ‐ DIGITAL CUSTOMER ANALYTICS & STRATEGY (_October 2021 - November 2022)**
+- Led 40+ ad-hoc projects that involved leveraging multiple data sources, such as inventory, cost, web analytics, and loyalty data, that directly contributed to an increase in operational efficiency and informed strategic decision-making organization-wide.
+- Led the data discovery process and established the app analytics environment from inception, achieving a reduction of over $350,000+ in query compute costs over the past year through optimization and efficiency enhancements.
+- Triaged over 20+ live issues over 12 large e‑commerce websites with 400M+ sessions, contributing to quicker issue resolution and
+enhancing the website’s customer experience performance
+
+**Machine Learning Researcher – AI to Combat Human Trafficking (_July 2021 - January 2022)**
+- Researched unsupervised clustering models, experimenting with internal data sources and evaluation metrics to develop high-quality evaluation signals.
+- Worked on creating a deep-learning model using transformer architecture and benchmarked its performance against other models under standardized settings.
+- Collaborated with research and product teams to implement new datasets and evaluation metrics, critically thinking about the utility of dataset quality and evaluation metrics, and writing clear documentation on supported evaluation settings.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predictive Asset Maintenance Plan 
+[Project](https://devpost.com/software/traffic-congestion)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+We present an alternative maintenance scheduling strategy to reduce maintenance costs related to the upkeep of the ferries and terminals. In this particular solution, we will be looking at the Ferry Maintenance of BC Ferries, which runs about 20 ferries over 12 routes and connects 8 terminals. Our project makes data-driven predictions about unplanned downtime or breakdowns at the terminal and of ferries for future ferry trips. This is done with the aim that the operators can then use these predictions to schedule issue-specific maintenance as well as to adapt operations and logistics of ferries, routes, and terminals.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Video Submission: 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kENcaTwbYew/0.jpg)]([https://www.youtube.com/watch?v=kENcaTwbYew])
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Education 		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
