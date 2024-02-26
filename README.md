@@ -1,9 +1,9 @@
 # Data Scientist
 
 #### Technical Skills: 
-Programming Languages: Python, SQL, R, GSQL 
-Analytics: IPython, Google Looker, Excel, R, R Shiny Apps, Jupyter Notebooks
-ML Frameworks: Pandas, NumPy, PyTorch, TensorFlow, Keras, scikit-learn, nltk, 
+- Programming Languages: Python, SQL, R, GSQL 
+- Analytics: IPython, Google Looker, Excel, R, R Shiny Apps, Jupyter Notebooks
+- ML Frameworks: Pandas, NumPy, PyTorch, TensorFlow, Keras, scikit-learn, nltk, 
 
 
 ## Work Experience
@@ -32,12 +32,13 @@ enhancing the website’s customer experience performance
 
 We present an alternative maintenance scheduling strategy to reduce maintenance costs related to the upkeep of the ferries and terminals. In this particular solution, we will be looking at the Ferry Maintenance of BC Ferries, which runs about 20 ferries over 12 routes and connects 8 terminals. Our project makes data-driven predictions about unplanned downtime or breakdowns at the terminal and of ferries for future ferry trips. This is done with the aim that the operators can then use these predictions to schedule issue-specific maintenance as well as to adapt operations and logistics of ferries, routes, and terminals.
 
-Video Submission: 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kENcaTwbYew/0.jpg)]([https://www.youtube.com/watch?v=kENcaTwbYew])
+####Video Submission: 
+- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kENcaTwbYew/0.jpg)]([https://www.youtube.com/watch?v=kENcaTwbYew])
 
 
 
 ## Education 		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- MicroMasters in Data Science and Statistics | MITx
+- Bachelor of Science (H.BSc) Mathematics Major with Double Minor in Statistics & Economics | University of Toronto 
+  
 
